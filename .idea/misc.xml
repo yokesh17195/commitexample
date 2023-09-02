@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/GitCommitTest/app/src/main/res/layout/activity_add_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidProjects/GitCommitTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/GitCommitTest/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
