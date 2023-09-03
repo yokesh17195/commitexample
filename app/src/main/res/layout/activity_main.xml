@@ -11,7 +11,7 @@
         android:id="@+id/hw"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello New World"
+        android:text="Hello New World from main commit"
         android:textColor="@color/white"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -19,7 +19,7 @@
         android:layout_margin="10dp"/>
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Hello World From main"
         android:textColor="@color/white"
